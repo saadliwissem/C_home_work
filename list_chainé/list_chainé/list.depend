@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1705524032 source:c:\users\khaled\desktop\1ingta-1a\list\main.c
+	<stdio.h>
+	<stdlib.h>
+	"list.h"
+
+1704917594 c:\users\khaled\desktop\1ingta-1a\list\list.h
+	<stdio.h>
+	<stdlib.h>
+
+1705524005 source:c:\users\khaled\desktop\1ingta-1a\list\list.c
+	<stdio.h>
+	<stdlib.h>
+	"list.h"
+

@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1704370906 source:c:\users\khaled\desktop\1ingta-1a\pile\src\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pile.h"
+
+1704319648 source:c:\users\khaled\desktop\1ingta-1a\pile\src\pile.c
+	<stdio.h>
+	"pile.h"
+
+1704358609 c:\users\khaled\desktop\1ingta-1a\pile\include\pile.h
+	<stdio.h>
+	<stdlib.h>
+
